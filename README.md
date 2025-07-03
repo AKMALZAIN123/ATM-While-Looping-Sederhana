@@ -1,6 +1,6 @@
 # ATM While Looping Sederhana
 
-Program Python sederhana untuk mensimulasikan mesin ATM.
+Program Python sederhana untuk mensimulasikan mesin ATM
 
 ### Fitur:
 - Cek saldo
